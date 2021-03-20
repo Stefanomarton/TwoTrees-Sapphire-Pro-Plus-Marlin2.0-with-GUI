@@ -120,7 +120,7 @@ non-belt-synced drives. In this case, a additional configuration has to be done
 //#define MOTION_NEW_JD           // If there is a jerky movement during small circular movements, activate the function
 
 // Classic Motion Control          - Classic Jerk [ON]  | S-Curve Acceleration [OFF] | Junction Deviation Factor [OFF]
-#define MOTION_CLASSIC
+//#define MOTION_CLASSIC
 
 
 // Linear Pressure Control

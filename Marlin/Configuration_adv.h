@@ -1984,8 +1984,8 @@
  *
  * Override the default value based on the driver type set in Configuration.h.
  */
-#define MINIMUM_STEPPER_POST_DIR_DELAY 300
-#define MINIMUM_STEPPER_PRE_DIR_DELAY 300
+//#define MINIMUM_STEPPER_POST_DIR_DELAY 300
+//#define MINIMUM_STEPPER_PRE_DIR_DELAY 300
 
 /**
  * Minimum stepper driver pulse width (in µs)
@@ -1998,7 +1998,7 @@
  *
  * Override the default value based on the driver type set in Configuration.h.
  */
-#define MINIMUM_STEPPER_PULSE 1
+//#define MINIMUM_STEPPER_PULSE 1
 
 /**
  * Maximum stepping rate (in Hz) the stepper driver allows
@@ -2012,7 +2012,7 @@
  *
  * Override the default value based on the driver type set in Configuration.h.
  */
-#define MAXIMUM_STEPPER_RATE 400000
+//#define MAXIMUM_STEPPER_RATE 400000
 
 // @section temperature
 
